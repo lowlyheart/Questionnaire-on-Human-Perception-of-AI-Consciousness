@@ -1,4 +1,4 @@
-# Study on Perceived AI Consciousness
+# Survey on Human Perception of AI Consciousness
 
 ## Access to the Full Survey Instrument
 The complete set of survey items used in the study is available.
